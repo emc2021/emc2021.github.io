@@ -1,0 +1,23 @@
+body {
+	background:linear-gradient(#00c9ff,#92fe9d);
+	text-align:center; 
+}
+.header {
+  background:linear-gradient( #2c3e50,#3498db); ;
+  padding: 10px;
+  margin: 10px;
+  border: 10px solid blue
+  
+}
+
+.sidebar{
+ max-width: 25%;
+ background: linear-gradient(70deg, blue, pink);
+ border: 10px dotted;
+ display: inline-block;
+
+.main{
+  background: bisque;
+  border: 10px solid black;
+  display: inline-block;
+}
